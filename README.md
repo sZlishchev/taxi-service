@@ -24,7 +24,7 @@
 * Servlet Api
 # Installation:
 1. Create DB using local MySQL or remote database. You can find schema in init_db.sql file.
-2. Put our DB URL, username, password, and JDBC driver into ConnectionUtil.class. alt text
+2. Put our DB url, username, password, and JDBC driver into ConnectionUtil.class.
    ![image](https://github.com/sZlishchev/taxi-service/assets/110261412/f084d0d9-30d6-479c-92d5-58062e750bb0)
 3. Install Apache Tomcat v.9.x.x.
 4. Clone this project from GitHub.
